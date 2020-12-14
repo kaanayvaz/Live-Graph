@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    border: 3px solid green;
+      
+}
+
+.graph{
+    height: 500px;
+    width: 500px;
+    margin-bottom: 100px;
+}
+
+input {
+    height: 25px;
+    width: 130px;
+}
+
+button {
+    height: 25px;
+    width: 130px;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
